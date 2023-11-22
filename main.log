@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2022.12.9)  29 AUG 2023 17:10
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2022.12.9)  22 NOV 2023 00:15
 entering extended mode
 **./main.tex
 (main.tex
@@ -876,20 +876,6 @@ LaTeX Font Info:    Font shape `TU/Niveau-Lig(0)/m/n' will be
 (Font)              scaled to size 11.98996pt on input line 42.
 LaTeX Font Info:    Font shape `TU/Niveau-Lig(0)/m/sc' will be
 (Font)              scaled to size 11.98996pt on input line 49.
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.104 ^^I^^I\\
-              \DTMsetdatestyle{mylastupdate}(Software | Hardware) Exploit? D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 LaTeX Font Info:    Font shape `TU/Niveau-Lig(0)/m/n' will be
 (Font)              scaled to size 13.07996pt on input line 120.
 
@@ -943,11 +929,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 180.
  ) 
 Here is how much of TeX's memory you used:
  28610 strings out of 427796
- 515799 string characters out of 3147800
+ 515798 string characters out of 3147800
  622224 words of memory out of 3000000
  32409 multiletter control sequences out of 15000+200000
  534814 words of font info for 67 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 46i,5n,86p,959b,535s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,5n,86p,981b,535s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on main.pdf (1 page).

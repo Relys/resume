@@ -7,7 +7,7 @@
 % !TeX program = xelatex
 
 \documentclass[]{hieudo-build}
-
+\usepackage{datetime2}
 
 \begin{document}
 	
@@ -23,7 +23,7 @@
 		\faGlobe{Bellingham,WA}\\
 		\faGlobe\href{http://sylerclayton.com/about}{ SylerClayton.com/about}\\
 		\faLinkedin\href{https://www.linkedin.com/in/sylerclayton}{ /SylerClayton}
-		\faMastodon\href{https://infosec.exchange/@syler}{@Syler}
+		\faTwitter\href{https://twitter.com/sylerclayton}{@SylerClayton}
 	}
 	
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -101,7 +101,7 @@
 		\item Deans List
 		\end{tightemize}
 		\sectionsep
-		\\\DTMsetdatestyle{mylastupdate}(Software | Hardware) Exploit? Development\hspace{28em}\DTMsetdatestyle{mylastupdate}\DTMdisplaydate{\the\year}{\the\month}{\the\day}{-1}
+		\DTMsetdatestyle{mylastupdate}(Software | Hardware) Exploit? Development\hspace{28em}\DTMsetdatestyle{mylastupdate}\DTMdisplaydate{\the\year}{\the\month}{\the\day}{-1}
 		
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 		%
